@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\weons0\Assets\Whispering Eons\Scripts\Controller\AxisProcessor.cs">
+    <Files>
+      <File FileName="..\weons0\Assets\Whispering Eons\Scripts\Controller\AxisProcessor.cs" Line="78" Column="28" />
+      <File FileName="..\weons0\Assets\Whispering Eons\Scripts\Controller\Controller.cs" Line="102" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
